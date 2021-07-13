@@ -1,0 +1,54 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "quantity": 1,
+            "imgUrl": "img/box_img-3.jpg",
+            "title": "hoody",
+            "text": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi. Known for her sculptural takes on traditional tailoring. Known for her sculptural takes on traditional tailoring",
+            "price": "250.00",
+            "id": 2
+        },
+        {
+            "quantity": 3,
+            "imgUrl": "img/box_img-1.jpg",
+            "title": "windbreaker",
+            "text": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+            "price": "200.00",
+            "id": 0
+        },
+        {
+            "quantity": 1,
+            "imgUrl": "img/box_img-2.jpg",
+            "title": "pantsuit",
+            "text": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi. Ellery teams up with Moda Operandi.",
+            "price": "150.00",
+            "id": 1
+        },
+        {
+            "quantity": 5,
+            "imgUrl": "img/box_img-5.jpg",
+            "title": "blazer",
+            "text": "Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+            "price": "900.00",
+            "id": 4
+        },
+        {
+            "quantity": 1,
+            "imgUrl": "img/box_img-4.jpg",
+            "title": "trousers",
+            "text": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+            "price": "490.00",
+            "id": 3
+        },
+        {
+            "quantity": 1,
+            "imgUrl": "img/box_img-1.jpg",
+            "title": "windbreaker",
+            "text": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+            "price": "200.00",
+            "id": 0
+        }
+    ]
+}
